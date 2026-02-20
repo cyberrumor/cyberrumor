@@ -15,7 +15,7 @@
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=cyberrumor&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF&dates=8B949E&hide_border=true&stroke=FF00FFFF&hide_current_streak=true"
+    src="https://streak-stats.demolab.com?user=cyberrumor&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF&dates=8B949E&hide_border=true&stroke=FF00FFFF&card_width=800"
     height="165"
   />
 </div>
@@ -23,7 +23,12 @@
 <br/>
 
 <div align="center">
-  <img src="./lines.svg" width="49%"/>
-  <img src="./languages.svg" width="49%"/>
+  <img src="./lines.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./languages.svg" width="100%"/>
 </div>
 
