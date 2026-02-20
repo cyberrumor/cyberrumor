@@ -39,12 +39,6 @@
 <br/>
 
 <div align="center">
-  <img src="./achievements.svg" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="./divider-cyan.svg" width="100%"/>
 </div>
 
