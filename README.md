@@ -3,6 +3,7 @@
 </div>
 
 <br/>
+<br/>
 
 <div align="center">
   <img src="./divider.svg" width="100%"/>
@@ -41,7 +42,7 @@
 <br/>
 
 <div align="center">
-  <img src="./lines.svg" width="100%"/>
+  <img src="./lines.svg" width="80%"/>
 </div>
 
 <br/>
@@ -53,7 +54,7 @@
 <br/>
 
 <div align="center">
-  <img src="./languages.svg" width="100%"/>
+  <img src="./languages.svg" width="80%"/>
 </div>
 
 <div align="center">

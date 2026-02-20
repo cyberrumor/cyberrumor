@@ -22,7 +22,7 @@ jobs:
           plugin_lines_delay: 30
           extras_css: |
             svg { background-color: #0D1117 !important; color: #00FFFF !important; }
-            h2, h3 { color: #FF00FF !important; }
+            h2, h3 { color: #D71827 !important; }
             .field svg { fill: #FF00FF !important; }
 
   languages:
@@ -44,6 +44,6 @@ jobs:
           plugin_languages_colors: "0:#FF00FF, 1:#00FFFF, 2:#D71827, 3:#FF00FF, 4:#00FFFF, 5:#D71827, 6:#FF00FF, 7:#00FFFF, 8:#D71827, 9:#FF00FF"
           extras_css: |
             svg { background-color: #0D1117 !important; color: #00FFFF !important; }
-            h2, h3 { color: #FF00FF !important; }
+            h2, h3 { color: #D71827 !important; }
             .field svg { fill: #FF00FF !important; }
 
