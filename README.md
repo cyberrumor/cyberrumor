@@ -2,8 +2,10 @@
   <img src="./header.svg" alt="cyberrumor" width="100%"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="./divider-magenta.svg" width="100%"/>
+  <img src="./divider.svg" width="100%"/>
 </div>
 
 <br/>
@@ -18,6 +20,12 @@
 <br/>
 
 <div align="center">
+  <img src="./divider.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
   <img
     src="https://streak-stats.demolab.com?user=cyberrumor&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF&dates=8B949E&hide_border=true&stroke=FF00FFFF&card_width=800"
     height="165"
@@ -27,7 +35,7 @@
 <br/>
 
 <div align="center">
-  <img src="./divider-red.svg" width="100%"/>
+  <img src="./divider.svg" width="100%"/>
 </div>
 
 <br/>
@@ -39,11 +47,15 @@
 <br/>
 
 <div align="center">
-  <img src="./divider-cyan.svg" width="100%"/>
+  <img src="./divider.svg" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
   <img src="./languages.svg" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="./divider.svg" width="100%"/>
 </div>
