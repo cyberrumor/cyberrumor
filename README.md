@@ -7,7 +7,7 @@
 <div align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=cyberrumor&bg_color=0D1117&color=00FFFF&line=FF00FF&point=00FFFF&area_color=FF00FF&area=true&hide_border=true&custom_title=Contribution%20Graph&title_color=FF00FF&hide_title=true"
-    width="95%"
+    width="100%"
   />
 </div>
 
