@@ -58,5 +58,9 @@
 </div>
 
 <div align="center">
+  <img src="./disclaimer.svg" width="600"/>
+</div>
+
+<div align="center">
   <img src="./divider.svg" width="100%"/>
 </div>
