@@ -37,8 +37,7 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_languages_limit: 3
-          plugin_languages_other: yes
+          plugin_languages_limit: 4
           plugin_languages_indepth: yes
           plugin_languages_details: lines, percentage
           plugin_languages_colors: "0:#FF00FF, 1:#00FFFF, 2:#D71827, 3:#FF00FF, 4:#00FFFF, 5:#D71827, 6:#FF00FF, 7:#00FFFF, 8:#D71827, 9:#FF00FF"
