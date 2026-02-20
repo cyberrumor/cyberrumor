@@ -65,19 +65,3 @@ jobs:
             h2, h3 { color: #FF00FF !important; }
             .field svg { fill: #FF00FF !important; }
 
-  isocalendar:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          extras_css: |
-            svg { background-color: #0D1117 !important; }
-            h2, h3 { display: none !important; }
-            .field { display: none !important; }
