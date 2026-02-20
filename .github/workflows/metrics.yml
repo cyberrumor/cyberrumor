@@ -41,8 +41,43 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_analysis_timeout: 30
-          plugin_languages_colors: "0:#FF00FF, 1:#00FFFF, 2:#FF00FF, 3:#00FFFF, 4:#FF00FF, 5:#00FFFF, 6:#FF00FF, 7:#00FFFF, 8:#FF00FF, 9:#00FFFF"
+          plugin_languages_colors: "0:#FF00FF, 1:#00FFFF, 2:#D71827, 3:#FF00FF, 4:#00FFFF, 5:#D71827, 6:#FF00FF, 7:#00FFFF, 8:#D71827, 9:#FF00FF"
           extras_css: |
             svg { background-color: #0D1117 !important; color: #00FFFF !important; }
             h2, h3 { color: #FF00FF !important; }
             .field svg { fill: #FF00FF !important; }
+
+  achievements:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
+          extras_css: |
+            svg { background-color: #0D1117 !important; color: #00FFFF !important; }
+            h2, h3 { color: #FF00FF !important; }
+            .field svg { fill: #FF00FF !important; }
+
+  isocalendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          extras_css: |
+            svg { background-color: #0D1117 !important; }
+            h2, h3 { display: none !important; }
+            .field { display: none !important; }

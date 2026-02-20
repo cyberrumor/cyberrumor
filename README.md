@@ -2,6 +2,10 @@
   <img src="./header.svg" alt="cyberrumor" width="100%"/>
 </div>
 
+<div align="center">
+  <img src="./divider-magenta.svg" width="100%"/>
+</div>
+
 <br/>
 
 <div align="center">
@@ -23,7 +27,31 @@
 <br/>
 
 <div align="center">
+  <img src="./divider-red.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./isocalendar.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="./lines.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./divider-cyan.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./achievements.svg" width="100%"/>
 </div>
 
 <br/>
@@ -31,4 +59,3 @@
 <div align="center">
   <img src="./languages.svg" width="100%"/>
 </div>
-
