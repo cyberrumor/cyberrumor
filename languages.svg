@@ -18,7 +18,7 @@ h2, h3 { color: #FF00FF !important; }
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 13.5mb of code in 2371 edited files across 1118 commits</small>
+                <small>estimation from 13.5mb of code in 2376 edited files across 1119 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -26,9 +26,9 @@ h2, h3 { color: #FF00FF !important; }
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="451.44646835862085" height="8" fill="#ff00ff"/>
                     <rect mask="url(#languages-bar)" x="451.44646835862085" y="0" width="7.650525775458356" height="8" fill="#00ffff"/>
-                    <rect mask="url(#languages-bar)" x="459.09699413407924" y="0" width="0.7147905267425728" height="8" fill="#ff00ff"/>
-                    <rect mask="url(#languages-bar)" x="459.81178466082184" y="0" width="0.1719603780673335" height="8" fill="#00ffff"/>
-                    <rect mask="url(#languages-bar)" x="459.98374503888914" y="0" width="0.01625496111084247" height="8" fill="#ff00ff"/>
+                    <rect mask="url(#languages-bar)" x="459.09699413407924" y="0" width="0.7147905267425728" height="8" fill="#d71827"/>
+                    <rect mask="url(#languages-bar)" x="459.81178466082184" y="0" width="0.1719603780673335" height="8" fill="#ff00ff"/>
+                    <rect mask="url(#languages-bar)" x="459.98374503888914" y="0" width="0.01625496111084247" height="8" fill="#00ffff"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -61,7 +61,7 @@ h2, h3 { color: #FF00FF !important; }
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ff00ff" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#d71827" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 C++
                             </div>
@@ -74,7 +74,7 @@ h2, h3 { color: #FF00FF !important; }
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00ffff" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ff00ff" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 Shell
                             </div>
@@ -87,7 +87,7 @@ h2, h3 { color: #FF00FF !important; }
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ff00ff" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#00ffff" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 Rust
                             </div>
