@@ -20,3 +20,10 @@
   />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="./lines.svg" width="49%"/>
+  <img src="./languages.svg" width="49%"/>
+</div>
+
