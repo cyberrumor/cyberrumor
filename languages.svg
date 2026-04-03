@@ -18,16 +18,16 @@ h2, h3 { color: #FF00FF !important; }
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 1.55mb of code in 2053 edited files across 1019 commits</small>
+                <small>estimation from 1.55mb of code in 2058 edited files across 1023 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.24570597196" height="8" fill="#ff00ff"/>
-                    <rect mask="url(#languages-bar)" x="444.24570597196" y="0" width="11.309712758485437" height="8" fill="#00ffff"/>
-                    <rect mask="url(#languages-bar)" x="455.5554187304454" y="0" width="3.568148026525828" height="8" fill="#d71827"/>
-                    <rect mask="url(#languages-bar)" x="459.1235667569713" y="0" width="0.8764332430287607" height="8" fill="#ff00ff"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.06950238209214" height="8" fill="#ff00ff"/>
+                    <rect mask="url(#languages-bar)" x="444.06950238209214" y="0" width="11.305226925619458" height="8" fill="#00ffff"/>
+                    <rect mask="url(#languages-bar)" x="455.37472930771156" y="0" width="3.749185073742278" height="8" fill="#d71827"/>
+                    <rect mask="url(#languages-bar)" x="459.12391438145386" y="0" width="0.876085618546126" height="8" fill="#ff00ff"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@ h2, h3 { color: #FF00FF !important; }
                             </div>
                             <small>
                                 <div>26.5k lines</div>
-                                <div>96.58%</div>
+                                <div>96.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,8 +51,8 @@ h2, h3 { color: #FF00FF !important; }
                                 Shell
                             </div>
                             <small>
-                                <div>250 lines</div>
-                                <div>0.78%</div>
+                                <div>254 lines</div>
+                                <div>0.82%</div>
                             </small>
                         </div>
                     </section>
