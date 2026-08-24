@@ -18,16 +18,16 @@ h2, h3 { color: #FF00FF !important; }
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 1.59mb of code in 2156 edited files across 1049 commits</small>
+                <small>estimation from 1.73mb of code in 2200 edited files across 1063 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.4016573131264" height="8" fill="#ff00ff"/>
-                    <rect mask="url(#languages-bar)" x="444.4016573131264" y="0" width="10.970939505416354" height="8" fill="#00ffff"/>
-                    <rect mask="url(#languages-bar)" x="455.3725968185428" y="0" width="4.608069336388995" height="8" fill="#d71827"/>
-                    <rect mask="url(#languages-bar)" x="459.9806661549318" y="0" width="0.019333845068210426" height="8" fill="#ff00ff"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="434.6637751220194" height="8" fill="#ff00ff"/>
+                    <rect mask="url(#languages-bar)" x="434.6637751220194" y="0" width="15.050407076348165" height="8" fill="#00ffff"/>
+                    <rect mask="url(#languages-bar)" x="449.71418219836755" y="0" width="10.267723219138023" height="8" fill="#d71827"/>
+                    <rect mask="url(#languages-bar)" x="459.9819054175056" y="0" width="0.01809458249442308" height="8" fill="#ff00ff"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -39,8 +39,8 @@ h2, h3 { color: #FF00FF !important; }
                                 Python
                             </div>
                             <small>
-                                <div>27.3k lines</div>
-                                <div>96.61%</div>
+                                <div>28.4k lines</div>
+                                <div>94.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -48,11 +48,11 @@ h2, h3 { color: #FF00FF !important; }
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#d71827" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Shell
+                                Papyrus
                             </div>
                             <small>
-                                <div>309 lines</div>
-                                <div>1%</div>
+                                <div>628 lines</div>
+                                <div>2.23%</div>
                             </small>
                         </div>
                     </section>
@@ -62,11 +62,11 @@ h2, h3 { color: #FF00FF !important; }
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#00ffff" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Papyrus
+                                Shell
                             </div>
                             <small>
-                                <div>628 lines</div>
-                                <div>2.38%</div>
+                                <div>1.02k lines</div>
+                                <div>3.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
